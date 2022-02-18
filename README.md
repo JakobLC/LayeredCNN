@@ -1,4 +1,4 @@
-This repository can be used to look at some of the code from my bachelor project. 
+This repository can be used to look at some of the code aswell as a trained model from the paper "LayeredCNN: Segmenting Layers with Autoregressive Models". 
 The LayeredCNN models are implemented in models.py. 
 
 A 5 MB trained model is included in models/ and a simple script demonstrates its uses in tutorial.py. 
